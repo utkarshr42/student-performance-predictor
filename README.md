@@ -59,6 +59,19 @@ The trained model is deployed using Streamlit.
 **Live Demo:**  
 https://student-performance-predictor-jzegep7rwzctkn42mgf5pu.streamlit.app/
 
+## Sample Prediction
+
+For a student with:
+
+- Study Hours: 8
+- Attendance: 90%
+- Previous Score: 80
+- Assignment Score: 85
+
+The model predicts:
+
+**Predicted Final Marks: 78.87**
+
 ##  Project Structure
 
   text
