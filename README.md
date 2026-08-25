@@ -56,7 +56,7 @@ Study Hours had the strongest coefficient among the input features.
 
 The trained model is deployed using Streamlit.
 
-**Live Demo:**  
+**Live App:**  
 https://student-performance-predictor-jzegep7rwzctkn42mgf5pu.streamlit.app/
 
 ## Sample Prediction
